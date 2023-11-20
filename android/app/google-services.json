@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842137701220",
+    "project_id": "logineiu",
+    "storage_bucket": "logineiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842137701220:android:8b26bc1aa83e52831b4871",
+        "android_client_info": {
+          "package_name": "com.logineiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842137701220-13spo8t09aa71p1lghtdsq6t48736v8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logineiu",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "842137701220-ig8rars8bmptmc4cor662jf2oksl2o0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4T2Ga_jePCSdt4wTYaVSDmrkAwNorrGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842137701220-ig8rars8bmptmc4cor662jf2oksl2o0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
